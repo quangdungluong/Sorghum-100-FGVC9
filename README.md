@@ -1,0 +1,3 @@
+# Sorghum -100 Cultivar Identification - FGVC 9. [Link to competition](https://www.kaggle.com/competitions/sorghum-id-fgvc-9/overview)
+
+## In progess...
